@@ -1,4 +1,4 @@
 # Qm9_ESE_Prediction
-testing <br>
-another testing <br>
+qm9datapreparation.py has the routine to extract and prepare data files directly from local machine. <br>
+
 
