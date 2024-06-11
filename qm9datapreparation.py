@@ -22,7 +22,8 @@ Qm9 dataset:
     - "g298_atom" - Atomization free energy at 298.15K (unit: kcal/mol)
 
 information source: https://github.com/deepchem/deepchem/blob/master/deepchem/molnet/load_function/qm9_datasets.py
-data source: https://www.nature.com/articles/sdata201422#Tab3
+data source: https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904
+More information :https://www.nature.com/articles/sdata201422#Tab3
 """
 
 
